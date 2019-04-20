@@ -23,7 +23,7 @@ Skills :
 - [ ] Sleep
 - [ ] Quit U
 - [ ] become scavenger
-- {x] Find a job
+- [x] Find a job
 
 
 Happy | Unhappy
@@ -31,5 +31,5 @@ Happy | Unhappy
 Icecream | cake
 lucky | unlucky
 
-
+![alt_text](Capture.png)
 
