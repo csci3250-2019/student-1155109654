@@ -31,5 +31,5 @@ Happy | Unhappy
 Icecream | cake
 lucky | unlucky
 
-![alt_text](Capture.png)
+![alt_text](Capture.PNG)
 
